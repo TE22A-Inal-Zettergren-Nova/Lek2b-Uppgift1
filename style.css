@@ -1,0 +1,27 @@
+body{
+    background-image: url("./img/moorish-pattern_644416-582.jpg");
+}
+
+
+h1{
+    color: rgb(17, 106, 141);
+    background-color: rgb(205, 230, 236);
+}
+
+a{
+    color: rgb(194, 159, 46);
+}
+
+a:hover{
+    color:indigo;
+    background-color: aqua;
+}
+
+a:active{
+    color:rgb(55, 212, 7);
+    background-color: tomato;
+}
+
+ul{
+    background-color: rgb(0, 0, 124);
+}
